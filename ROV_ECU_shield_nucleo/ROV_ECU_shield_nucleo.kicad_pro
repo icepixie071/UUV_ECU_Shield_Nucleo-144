@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.0,
+          "height": 1.75,
+          "width": 1.59
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 2,
@@ -177,7 +177,7 @@
       "teardrop_parameters": [
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -188,7 +188,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -199,7 +199,7 @@
         },
         {
           "td_allow_use_two_tracks": true,
-          "td_curve_segcount": 0,
+          "td_curve_segcount": 1,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -843,7 +843,7 @@
         "uuid": "e9c4ea9a-a24e-4ce2-b2fd-ad748776930d"
       }
     ],
-    "used_designators": "JP1-3,IC14-15,R17-21,R47-54,#FLG3,#FLG8,J4,J20-21,AC1,#PWR22,#PWR29-31,#PWR33-35,#PWR47,#PWR50-51,#PWR61,#PWR63,#PWR87,#PWR141-150,C11,C45-48,D3,D11",
+    "used_designators": "JP1-3,IC14-15,R17-21,R47-56,#FLG3,#FLG8,J4,J20-21,AC1,#PWR22,#PWR29-31,#PWR33-35,#PWR47,#PWR50-51,#PWR61,#PWR63,#PWR87,#PWR141-164,C11,C45-55,D3,D11,Y1-2,TP1-2",
     "variants": []
   },
   "sheets": [
